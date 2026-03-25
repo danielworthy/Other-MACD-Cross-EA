@@ -26,6 +26,6 @@ To use it, open the project in MetaEditor, compile [`other simple macd cross.mq4
 
 ![2025](./macd%20cross%202025.png)
 
-![2026](./macd%20cross%20-%202026.png)
+![2026](./macd%20cross%202026.png)
 
 *I had ChatGPT have a final blast at the code before I uploaded it here. It compiles, but it may also have introduced new bugs.*
